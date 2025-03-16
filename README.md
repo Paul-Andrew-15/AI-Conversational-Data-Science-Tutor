@@ -28,13 +28,14 @@ The AI Conversational Data Science Tutor is an intelligent chatbot designed to a
 6. Deploy and run the application using streamlit run app.py or a cloud service like Streamlit Cloud.
 
 ## Output:
-![](./o1.png)
-![](./o1.png)
-![](./o1.png)
-![](./o1.png)
-![](./o1.png)
-![](./o1.png)
-![](./o1.png)
+![](./o1.PNG)
+![](./o2.PNG)
+![](./o3.PNG)
+![](./o4.PNG)
+![](./o5.PNG)
+![](./o6.PNG)
+![](./o7.PNG)
+
 
 ## Credits & Acknowledgment:
 
